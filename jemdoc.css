@@ -374,16 +374,3 @@ table.imgtable, table.imgtable td {
 }
 
 /* float-button */
-
-div.float-button {
-	font-size: 90%;
-	font-family: 宋体;
-	text-align:center;
-	line-height:35px;
-	position: fixed; 
-	height: 70px;
-	width: 30px;
-	bottom: 90px;
-	left: 0px;
-	background: #D4D4D4;
-}
