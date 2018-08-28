@@ -373,4 +373,12 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
+table.highth {
+	line-height: 1.5em;
+}
+
+table.highth_cn{
+	line-height: 2em;
+}
+
 /* float-button */
