@@ -13,11 +13,12 @@ body {
 }
 */
 html {
-  background-color: #eeeeee; 
+    background-color: #eeeeee;
 }
 
+
 body { 
-  font-family: Georgia, serif;
+  font-family: Georgia, Microsoft YaHei serif;
   color: #000;
   background-color: #ffffff; 
   text-align:left; /* for IE */
@@ -71,7 +72,7 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: monaco, monospace;
+	font-family: monaco, SimSun monospace;
 }
 
 a, a > tt {
